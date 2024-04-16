@@ -78,6 +78,16 @@ namespace text_analysis
 
                     // Get linked entities
 
+                    LinkedEntityCollection linkedEntities = aiClient.RecognizeLinkedEntities(text);
+                    if (linkedEntities.Count > 0)
+                    {
+                        Console.WriteLine("\nLinks:");
+                        foreach (LinkedEntity linkedEntity in linkedEntities)
+                        {
+                            Console.WriteLine($"\t{linkedEntity.Name} ({linkedEntity.Url})");
+                        }
+                    }
+
 
                 }
             }
