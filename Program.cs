@@ -39,6 +39,9 @@ namespace text_analysis
                     Console.WriteLine("\n" + text);
 
                     // Get language
+                    DetectedLanguage detectedLanguage = aiClient.DetectLanguage(text);
+                    Console.WriteLine($"\nLanguage: {detectedLanguage.Name}");
+
 
 
                     // Get sentiment
