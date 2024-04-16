@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("text-analysis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+732116561ac1da0a2d9e7c1390b8aff5d6d53566")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6c46fc5bc16962fd2803b84cd981981f0016ad0")]
 [assembly: System.Reflection.AssemblyProductAttribute("text-analysis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("text-analysis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
