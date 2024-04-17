@@ -1,0 +1,6 @@
+C:\Users\Elmo0\OneDrive\Documents\Laura\MSLearn\mslearn-ai-language\Labfiles\06b-translator-sdk\C-Sharp\translate-text\obj\Debug\net7.0\translate_text.csproj.AssemblyReference.cache
+C:\Users\Elmo0\OneDrive\Documents\Laura\MSLearn\mslearn-ai-language\Labfiles\06b-translator-sdk\C-Sharp\translate-text\obj\Debug\net7.0\translate_text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elmo0\OneDrive\Documents\Laura\MSLearn\mslearn-ai-language\Labfiles\06b-translator-sdk\C-Sharp\translate-text\obj\Debug\net7.0\translate_text.AssemblyInfoInputs.cache
+C:\Users\Elmo0\OneDrive\Documents\Laura\MSLearn\mslearn-ai-language\Labfiles\06b-translator-sdk\C-Sharp\translate-text\obj\Debug\net7.0\translate_text.AssemblyInfo.cs
+C:\Users\Elmo0\OneDrive\Documents\Laura\MSLearn\mslearn-ai-language\Labfiles\06b-translator-sdk\C-Sharp\translate-text\obj\Debug\net7.0\translate_text.csproj.CoreCompileInputs.cache
+C:\Users\Elmo0\OneDrive\Documents\Laura\MSLearn\mslearn-ai-language\Labfiles\06b-translator-sdk\C-Sharp\translate-text\obj\Debug\net7.0\translate_text.sourcelink.json
